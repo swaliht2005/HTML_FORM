@@ -1,0 +1,17 @@
+body{
+    width: 0;
+    background-image:url(/imag/pexels-photo-255379.webp);
+}
+.border{
+    margin-left: 500px;
+    align-items: center;
+    margin-top: 100px;
+}
+.border1{
+    height: 250px;
+    width: 300px;
+    text-align: center;
+    border: 2px solid black;
+    background-color:#79094d
+   
+}
